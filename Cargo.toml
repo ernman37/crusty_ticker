@@ -5,7 +5,7 @@ edition = "2024"
 description = "Data Structure for Stock and Crypto Ticker"
 license="Beerware"
 keywords = ['stock', 'crypto', 'finance', 'ticker', 'trading']
-categories = ['data-structures', 'finance']
+categories = ['data-structures']
 readme = 'README.md'
 
 [dependencies]

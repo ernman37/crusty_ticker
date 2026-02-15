@@ -3,5 +3,5 @@ pub enum AssetType {
     ETF,
     MutualFund,
     IndexFund,
-    Misc
+    Misc,
 }

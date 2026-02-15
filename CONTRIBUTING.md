@@ -19,7 +19,7 @@ Thank you for your interest in contributing to crusty_ticker! This document prov
    ```
 3. Add the upstream remote:
    ```bash
-   git remote add upstream https://github.com/ernman37/rusty_cards.git
+   git remote add upstream https://github.com/ernman37/rusty_ticker.git
    ```
 4. Build the project:
    ```bash
